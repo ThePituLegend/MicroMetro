@@ -1,0 +1,31 @@
+﻿* PC
+* Unity
+* Presupuesto: 0€
+* Single-Player
+* Control: Teclado y ratón
+* Juego de Trenes
+* Real-Time Strategy Game
+* Minimalista
+* Objetivo: Gestionar una red de metro
+* Los pasajeros tienen formas geométricas asociadas
+* Los pasajeros aparecen de forma aleatoria en estaciones
+* Los pasajeros quieren ir a la estación con su forma asociada
+* Los pasajeros se mueven de forma autónoma por el metro y buscan la mejor ruta solos
+* Sí demasiados pasajeros se acumulan en una estación, empieza una cuenta atrás de colapso
+* Si una estación colapsa, game over
+* Hay un sistema de puntos en función de los pasajeros que llegan a sus estaciones
+* Victoria por puntos, siempre que la red de metro sea estable y completa
+* Recursos limitados
+* Recursos del jugador: Vagones, líneas, locomotoras, intercambiador, túnel
+* Las líneas son independientes entre ellas
+* Si dos líneas se encuentran en la misma estación, los pasajeros pueden saltar entre ellas.
+* Estaciones relacionadas con formas geométricas
+* Las estaciones pueden cambiar de forma según criterios
+* Las estaciones aparecen en posiciones aleatorias cuando se alcanza una cantidad de puntos
+* El mapa tiene rios
+* El jugador puede unir/sacar estaciones de las líneas
+* Las líneas no pueden cruzar un río sin un túnel
+* Las líneas pueden ser circulares
+* Las líneas deben ser conexas (no pueden haber fragmentos de línea sueltos)
+* Un jugador puede cambiar la dirección de un vagón
+* El juego guarda el estado de la partida: puntos y estados de la red de metro
