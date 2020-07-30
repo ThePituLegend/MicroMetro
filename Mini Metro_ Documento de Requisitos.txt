@@ -7,6 +7,7 @@
 * Real-Time Strategy Game
 * Minimalista
 * Objetivo: Gestionar una red de metro
+* Existen pasajeros
 * Los pasajeros tienen formas geométricas asociadas
 * Los pasajeros aparecen de forma aleatoria en estaciones
 * Los pasajeros quieren ir a la estación con su forma asociada
