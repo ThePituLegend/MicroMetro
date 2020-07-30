@@ -29,3 +29,5 @@
 * Las líneas deben ser conexas (no pueden haber fragmentos de línea sueltos)
 * Un jugador puede cambiar la dirección de un vagón
 * El juego guarda el estado de la partida: puntos y estados de la red de metro
+* Hay la posibilidad de fast-forward, play y pause durante el juego. FF acelera la velocidad de todo, P velocidad normal y Pause.
+* Pause detiene el movimiento de: vagones, creacion de pasajeros y colapso estaciones, pero permite modificar que estaciones son parte de una linea.
