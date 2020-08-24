@@ -1,0 +1,7 @@
+inicio
+	leer input;
+	procesar Input;
+	procesar Accion Red Metro;
+	si la accion es valida:
+		dibujar red metro;
+fin
